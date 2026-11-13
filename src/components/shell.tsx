@@ -88,12 +88,6 @@ export function Footer() {
             </a>
           )}
           <a
-            href={platformUrl("/mentor")}
-            className="transition hover:text-crimson"
-          >
-            Become a Mentor
-          </a>
-          <a
             href="https://www.anneru.com"
             target="_blank"
             rel="noopener noreferrer"

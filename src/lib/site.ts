@@ -3,7 +3,7 @@
 // Registration, mentor sign-up, judging and results live in the separate
 // hackathon platform app. This site has none of that; its buttons link there.
 
-// Where the platform lives. Every Register / Become a Mentor / Judge Sign In
+// Where the platform lives. Every Register / Judge Sign In
 // / View the Winners link points here.
 export const PLATFORM_URL = "https://globalenergyhackathon.vercel.app";
 

@@ -126,19 +126,7 @@ export default function Home() {
 
   return (
     <>
-      <HeaderBar
-        rightSlot={
-          <>
-            <a
-              href={platformUrl("/mentor")}
-              className="pill whitespace-nowrap hover:border-crimson hover:text-crimson"
-            >
-              Become a Mentor
-            </a>
-            <HeaderCta />
-          </>
-        }
-      />
+      <HeaderBar rightSlot={<HeaderCta />} />
 
       {/* ---------- HERO (full-bleed image background) ---------- */}
       <section className="theme-dark relative overflow-hidden border-b border-line">
