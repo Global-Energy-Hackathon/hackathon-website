@@ -41,7 +41,7 @@ const WINNERS: Winner[] = [
     name: "GridRescue-AI",
     pitch:
       "Turns a map pin into an investment-ready, relocatable clean energy plan for hospitals on weak grids.",
-    members: ["Pavan Manjunath"],
+    members: ["Pavan Manjunath", "Dr. Thomas Prüfer"],
     coaches: ["Guru Sharan", "Ashritha Reddy Epur"],
   },
   {
